@@ -1,0 +1,2 @@
+# QueryObjects
+ Criação das classes
